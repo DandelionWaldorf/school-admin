@@ -50,7 +50,7 @@ coreschema==0.0.4
     #   -r base.txt
     #   coreapi
     #   drf-yasg
-cryptography==36.0.2
+cryptography==39.0.1
     # via -r base.txt
 defusedxml==0.7.1
     # via
